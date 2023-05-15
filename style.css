@@ -1,0 +1,35 @@
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 75px;
+    font-weight: 600;
+    background-color: rgb(206, 222, 239);
+    margin-bottom: 0px;
+
+}
+
+.flex-container {
+    display: flex;
+}
+
+div div {
+    flex: 1;
+    padding: 5px;
+
+}
+
+#about-me {
+    background-color: rgb(159, 191, 208);
+    text-align: center;
+}
+
+#education-experience {
+    background-color: rgb(141, 161, 215);
+    text-align: center;
+}
+
+#projects {
+    background-color: rgb(77, 90, 115);
+    text-align: center;
+}
+
